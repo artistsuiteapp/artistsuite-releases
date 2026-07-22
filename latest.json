@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.7/ArtistSuite-1.0.7.dmg",
-  "notes": "Agenda con eventi liberi e promemoria, favicon dei siti nel browser, logo del menu più leggibile"
+  "version": "1.0.8",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.8/ArtistSuite-1.0.8.dmg",
+  "notes": "Nuova sezione Download: tracce scaricate dal browser con copertina, BPM, key e metadati. Tab Varie per gli altri file. Doppio click apre i progetti nella DAW."
 }
