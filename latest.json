@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.13/ArtistSuite-1.0.13.dmg",
-  "notes": "Barra menu più snella: Home come icona accanto al logo, Agenda tra le icone in alto a destra, Contatti dentro Email Hub."
+  "version": "1.0.14",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.14/ArtistSuite-1.0.14.dmg",
+  "notes": "Barra menu in vetro con effetto Dock: le icone si ingrandiscono al passaggio del mouse e le vicine si sollevano, con riflesso che segue il cursore. Voci più distanziate."
 }
