@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.11/ArtistSuite-1.0.11.dmg",
-  "notes": "Banner di aggiornamento ora ben visibile. Nel widget della barra dei menu, pulsante Scrivi nuova email al posto del conteggio demo."
+  "version": "1.0.12",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.12/ArtistSuite-1.0.12.dmg",
+  "notes": "Ricevi le email in arrivo dentro l'app: nuova sezione In arrivo in Email Hub con le risposte delle label, badge dei non letti e collegamento automatico alla demo. Connessione IMAP in sola lettura, tutto in locale."
 }
