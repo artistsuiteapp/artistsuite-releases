@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.12/ArtistSuite-1.0.12.dmg",
-  "notes": "Ricevi le email in arrivo dentro l'app: nuova sezione In arrivo in Email Hub con le risposte delle label, badge dei non letti e collegamento automatico alla demo. Connessione IMAP in sola lettura, tutto in locale."
+  "version": "1.0.13",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.13/ArtistSuite-1.0.13.dmg",
+  "notes": "Barra menu più snella: Home come icona accanto al logo, Agenda tra le icone in alto a destra, Contatti dentro Email Hub."
 }
