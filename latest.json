@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.9/ArtistSuite-1.0.9.dmg",
-  "notes": "Login dei siti salvati in locale e compilati in automatico, cifrati con il Portachiavi di macOS. Corretta la barra di aggiornamento che non si leggeva."
+  "version": "1.0.10",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.10/ArtistSuite-1.0.10.dmg",
+  "notes": "Ricerca globale con Cmd+K su tracce, contatti, release, date e agenda. Nuovo widget nella barra dei menu di macOS con scadenze, prossima data e demo in attesa."
 }
