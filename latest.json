@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.20/ArtistSuite-1.0.20.dmg",
-  "notes": "Calendario unificato: date live, uscite e promemoria compaiono tutti nel calendario, a griglia e in elenco. Dal calendario crei una data live che finisce anche in Tour. Corretto il tema scuro dove alcune scritte erano bianche su bianco. Posta in arrivo: rispondi alle label restando nella conversazione, apri gli allegati con un clic o salvali dove vuoi."
+  "version": "1.0.21",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.21/ArtistSuite-1.0.21.dmg",
+  "notes": "Login con Facebook e Apple ora funzionano nel browser interno: la finestra restava bianca perché mancava un host all'elenco dei siti consentiti. Se un sito viene bloccato, la finestra ora spiega quale e perché. Calendario unificato con date live, uscite e promemoria. Posta in arrivo con risposte nel thread e allegati apribili."
 }
