@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.21/ArtistSuite-1.0.21.dmg",
-  "notes": "Login con Facebook e Apple ora funzionano nel browser interno: la finestra restava bianca perché mancava un host all'elenco dei siti consentiti. Se un sito viene bloccato, la finestra ora spiega quale e perché. Calendario unificato con date live, uscite e promemoria. Posta in arrivo con risposte nel thread e allegati apribili."
+  "version": "1.0.22",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.22/ArtistSuite-1.0.22.dmg",
+  "notes": "Tracce e DAW ora si parlano: colleghi un progetto DAW a una traccia anche dopo il caricamento, e la scheda della traccia mostra tutto — artisti, label, genere, BPM, tonalità, data di uscita, royalties, versioni alternative, progetti DAW apribili con un clic e contratto. Prima: login Facebook e Apple funzionanti nel browser interno, calendario unificato con date live e promemoria."
 }
