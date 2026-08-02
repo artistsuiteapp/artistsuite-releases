@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.22/ArtistSuite-1.0.22.dmg",
-  "notes": "Tracce e DAW ora si parlano: colleghi un progetto DAW a una traccia anche dopo il caricamento, e la scheda della traccia mostra tutto — artisti, label, genere, BPM, tonalità, data di uscita, royalties, versioni alternative, progetti DAW apribili con un clic e contratto. Prima: login Facebook e Apple funzionanti nel browser interno, calendario unificato con date live e promemoria."
+  "version": "1.0.23",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.23/ArtistSuite-1.0.23.dmg",
+  "notes": "Nuova sezione Finance: registri entrate e uscite, colleghi le spese a una data o a una release e vedi il guadagno reale. Abbonamenti e rate generano da soli le scadenze future, e ogni movimento compare nel calendario. Scelta della valuta nelle impostazioni, posta in arrivo come prima voce in Email."
 }
