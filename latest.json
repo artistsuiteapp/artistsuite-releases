@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.23/ArtistSuite-1.0.23.dmg",
-  "notes": "Nuova sezione Finance: registri entrate e uscite, colleghi le spese a una data o a una release e vedi il guadagno reale. Abbonamenti e rate generano da soli le scadenze future, e ogni movimento compare nel calendario. Scelta della valuta nelle impostazioni, posta in arrivo come prima voce in Email."
+  "version": "1.0.24",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.24/ArtistSuite-1.0.24.dmg",
+  "notes": "Nuova sezione Finance: registri entrate e uscite, colleghi le spese a una data o a una release e vedi il guadagno reale. Abbonamenti e rate generano da soli le scadenze future, e ogni movimento compare nel calendario. Scelta della valuta nelle impostazioni, posta in arrivo come prima voce in Email, e un avviso nel Tour quando la mappa online e spenta."
 }
