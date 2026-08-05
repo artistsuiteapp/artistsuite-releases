@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.25/ArtistSuite-1.0.25.dmg",
-  "notes": "Finance ridisegnata come un conto corrente: saldo, previsione di spesa del mese e se chiudi in attivo o in perdita, abbonamenti con il prossimo addebito, estratto conto per giorno. Le spese solo programmate non gonfiano piu il grafico. Nuovo Cmd+Z per annullare l ultima modifica ovunque, barra spaziatrice per riprodurre e mettere in pausa, ? per tutte le scorciatoie. Corretti la categoria che non si poteva piu cambiare e il player che restava muto senza spiegazioni."
+  "version": "1.0.26",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.26/ArtistSuite-1.0.26.dmg",
+  "notes": "Abbonamenti e rate piu chiari: il campo data diventa Primo addebito o Prima rata, la frequenza si sceglie con quattro pulsanti e la durata con due sole opzioni. Sotto vedi l anteprima delle scadenze vere prima di salvare. Include la nuova Finance in stile conto corrente, Cmd+Z per annullare ovunque e le scorciatoie da tastiera."
 }
