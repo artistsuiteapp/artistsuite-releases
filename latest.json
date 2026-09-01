@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.26/ArtistSuite-1.0.26.dmg",
-  "notes": "Abbonamenti e rate piu chiari: il campo data diventa Primo addebito o Prima rata, la frequenza si sceglie con quattro pulsanti e la durata con due sole opzioni. Sotto vedi l anteprima delle scadenze vere prima di salvare. Include la nuova Finance in stile conto corrente, Cmd+Z per annullare ovunque e le scorciatoie da tastiera."
+  "version": "1.0.27",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.27/ArtistSuite-1.0.27.dmg",
+  "notes": "Nuovo sistema di licenze: ogni key vale per due computer, il terzo viene rifiutato. Serve internet solo alla prima attivazione, poi ArtistSuite funziona offline. Nelle impostazioni trovi Scollega questo computer per liberare un posto quando cambi Mac. Le key delle versioni precedenti non sono piu valide: dopo l aggiornamento serve una key nuova."
 }
