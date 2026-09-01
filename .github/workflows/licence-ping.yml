@@ -1,0 +1,23 @@
+# Keeps the licence server awake.
+#
+# Supabase pauses a free project after a week without traffic, and a paused
+# project means activations start failing. Once there are customers their apps
+# provide the traffic; until then, this does.
+name: Ping licence server
+
+on:
+  schedule:
+    - cron: '17 6 * * 1,4'   # Monday and Thursday, well inside the 7-day window
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call the health endpoint
+        run: |
+          code=$(curl -s -o /tmp/out -w '%{http_code}' --max-time 30 \
+            -X POST https://efnezymvapiqgptplxji.supabase.co/functions/v1/licence/health \
+            -H 'Content-Type: application/json' -d '{}')
+          echo "HTTP $code — $(cat /tmp/out)"
+          test "$code" = "200"
