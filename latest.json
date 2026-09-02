@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.27/ArtistSuite-1.0.27.dmg",
-  "notes": "Nuovo sistema di licenze: ogni key vale per due computer, il terzo viene rifiutato. Serve internet solo alla prima attivazione, poi ArtistSuite funziona offline. Nelle impostazioni trovi Scollega questo computer per liberare un posto quando cambi Mac. Le key delle versioni precedenti non sono piu valide: dopo l aggiornamento serve una key nuova."
+  "version": "1.0.28",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.28/ArtistSuite-1.0.28.dmg",
+  "notes": "La posta in arrivo si aggiorna davvero: prima ogni minuto veniva riscaricata tutta la posta del giorno, ora vengono chiesti solo i messaggi nuovi. Una connessione resta in ascolto e le email arrivano appena il server le riceve. Se il server rifiuta la password o non risponde, ora la pagina Email lo dice invece di restare in silenzio."
 }
