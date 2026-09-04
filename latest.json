@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.28/ArtistSuite-1.0.28.dmg",
-  "notes": "La posta in arrivo si aggiorna davvero: prima ogni minuto veniva riscaricata tutta la posta del giorno, ora vengono chiesti solo i messaggi nuovi. Una connessione resta in ascolto e le email arrivano appena il server le riceve. Se il server rifiuta la password o non risponde, ora la pagina Email lo dice invece di restare in silenzio."
+  "version": "1.0.29",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.29/ArtistSuite-1.0.29.dmg",
+  "notes": "La schermata di attivazione ora avvisa se la versione installata e vecchia e offre il pulsante per aggiornare prima di chiedere la key: le key nuove funzionano solo sull ultima versione. In fondo trovi il numero di versione e un pulsante per controllare gli aggiornamenti."
 }
