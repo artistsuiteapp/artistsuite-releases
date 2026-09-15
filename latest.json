@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
-  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.29/ArtistSuite-1.0.29.dmg",
-  "notes": "La schermata di attivazione ora avvisa se la versione installata e vecchia e offre il pulsante per aggiornare prima di chiedere la key: le key nuove funzionano solo sull ultima versione. In fondo trovi il numero di versione e un pulsante per controllare gli aggiornamenti."
+  "version": "1.0.30",
+  "url": "https://github.com/artistsuiteapp/artistsuite-releases/releases/download/v1.0.30/ArtistSuite-1.0.30.dmg",
+  "notes": "Il browser interno apre di nuovo le finestre: i login con Google e Facebook si aprono sempre come finestra. Se una pagina prova ad aprire un sito non consentito compare una scheda che lo spiega, con il pulsante per consentirlo e aprirlo."
 }
